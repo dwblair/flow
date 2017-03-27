@@ -1,0 +1,8 @@
+source,target,value
+ff,ff_us,2
+ff,ff_middle-east_asia,2
+ff,ff_x,2
+ff,future_bank,2
+ff_us,ff_global,2
+ff_middle-east_asia,ff_global,2
+ff_x,IMFS,2
